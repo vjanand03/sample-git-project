@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main() {
-    printf("Hello World!");
+    printf("Socgen is awesome!");
     return 0;
 }
